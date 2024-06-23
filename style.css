@@ -1,0 +1,10 @@
+.content {
+    overflow: auto; 
+}
+
+.picture {
+    float: right;
+    margin: 0 0 10px 10px; 
+    width: 200px; 
+    height: auto; 
+}
